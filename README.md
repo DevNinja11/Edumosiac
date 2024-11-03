@@ -55,13 +55,6 @@ Through these contributions, I aim to create an inclusive and effective learning
 ## My Impact
 
 As the architect and developer of EduMosaic, my impact lies in creating a scalable and maintainable educational platform that not only meets current needs but also prepares for future expansions into microservices architecture. By implementing best practices in DDD and leveraging modern technology, I aim to foster an environment conducive to learning and growth within the educational sector.
-Feel free to modify any part of the content as needed!
-
-
-
-
-
-
 
 
 
