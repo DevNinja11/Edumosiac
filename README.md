@@ -1,5 +1,6 @@
+**EduMosaic**
 
-# Project Overview: **EduMosaic**
+# Project Overview: 
 
 EduMosaic is a modular monolith educational platform built using Domain-Driven Design (DDD) principles, designed to facilitate a seamless transition to a microservices architecture in the future. The application serves as a comprehensive solution for managing courses, users, and reviews, ensuring a robust structure for educational institutions.
 
@@ -25,8 +26,6 @@ EduMosaic is a modular monolith educational platform built using Domain-Driven D
 ![WhatsApp Image 2024-11-04 at 1 15 18 AM](https://github.com/user-attachments/assets/229578d9-c33e-4391-bab3-bb6518bed313)
 ![WhatsApp Image 2024-11-04 at 1 15 28 AM](https://github.com/user-attachments/assets/f09cc644-db4f-46ad-83e8-e99c305c43fc)
 ![WhatsApp Image 2024-11-04 at 1 15 41 AM](https://github.com/user-attachments/assets/3eb45c71-26d8-4fac-acb0-9b902dcf43be)
-
-## Contribution
 
 ## Contributions
 
